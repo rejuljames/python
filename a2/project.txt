@@ -1,0 +1,4 @@
+1) Election result prediction based on twitter data
+ 	Based on the words used in tweet we can say tweeter supports the candidate or not. 
+2) Restuarant review based on twitter data
+3) Most talked topic about a city based on twitter data
